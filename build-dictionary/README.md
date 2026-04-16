@@ -2,7 +2,7 @@
 
 A command-line Python script that builds **EPUB dictionaries** from
 [Wiktionary](https://www.wiktionary.org/) XML dumps, optimised for the
-**Xteink X4** e-reader (CrossPoint Reader firmware, 480×800 px, 220 ppi,
+**Xteink X4** e-reader ([CrossPoint Reader](https://github.com/crosspoint-reader/crosspoint-reader) firmware, 480×800 px, 220 ppi,
 no touch).
 
 Each EPUB covers a 3-letter prefix (e.g. `ABA`, `COM`, `PRE`) and is
