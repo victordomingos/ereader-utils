@@ -1,8 +1,7 @@
 # wiki-to-read.py
 
 A command-line Python script that builds **Wikipedia EPUB libraries** from
-the official XML dumps, optimised for the **Xteink X4** e-reader (CrossPoint
-Reader firmware, 480×800 px, 220 ppi, no touch).
+the official XML dumps, optimised for the **Xteink X4** e-reader ([CrossPoint Reader](https://github.com/crosspoint-reader/crosspoint-reader) firmware, 480×800 px, 220 ppi, no touch).
 
 Each EPUB covers a 3-letter prefix (e.g. `ABA`, `FER`, `PES`) and contains
 up to 20 articles per page, each directly navigable by title via the NCX
