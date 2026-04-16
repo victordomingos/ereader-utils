@@ -4,7 +4,7 @@ A command-line Python script that downloads RSS/Atom feeds and generates
 **EPUB files** optimised for the **Xteink X4** e-reader ([CrossPoint Reader](https://github.com/crosspoint-reader/crosspoint-reader)
 firmware, 480×800 px, 220 ppi, no touch).
 
-It reads the same `feed_config.lua` used by KOReader, so no extra
+It reads the same `feed_config.lua` used by [KOReader](https://github.com/koreader/koreader), so no extra
 configuration is needed if you already have that file set up.
 
 ---
