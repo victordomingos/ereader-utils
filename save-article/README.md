@@ -1,7 +1,7 @@
 # save-article.py
 
 A command-line Python script that saves the content of any URL as an
-**EPUB file** optimised for the **Xteink X4** e-reader (CrossPoint Reader
+**EPUB file** optimised for the **Xteink X4** e-reader ([CrossPoint Reader](https://github.com/crosspoint-reader/crosspoint-reader)
 firmware, 480×800 px, 220 ppi, no touch).
 
 It extracts the main article body from the page, discards menus, footers,
